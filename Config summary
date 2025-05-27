@@ -1,0 +1,11 @@
+[Outer Cryogenic Tank]
+    ↓
+[Thermal Isolation Layer]
+    ↓
+[Gyro Suspension Chamber]
+    - HTS ring (spinning)
+    - Induction coils (stationary)
+    - Optical sensors
+    - Magnetic shielding
+    ↓
+[Core Control Systems]
